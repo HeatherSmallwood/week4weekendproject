@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://tpbyapzz:NkXyryOlkqDep_wvP9T34NUGb1c4mo6m@peanut.db.elephantsql.com/tpbyapzz",
+            "name": "week4weekendHomework"
+        }
+    ]
+}
